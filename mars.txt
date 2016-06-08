@@ -1,1 +1,2 @@
 Mars is red and smaller than Earth.
+Added 2nd line to text file
