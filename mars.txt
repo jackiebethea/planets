@@ -1,3 +1,5 @@
 Mars is red and smaller than Earth.
 Added 2nd line to text file
 Mars has ice caps just like Earth!
+
+2nd modification on 2nd day of class, Thur 6/9
